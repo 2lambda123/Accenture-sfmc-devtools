@@ -90,7 +90,7 @@
         "c8": "10.1.2",
         "chai": "5.1.0",
         "chai-files": "1.4.0",
-        "eslint": "9.4.0",
+        "eslint": "9.18.0",
         "eslint-config-prettier": "9.1.0",
         "eslint-config-ssjs": "1.1.11",
         "eslint-plugin-jsdoc": "48.2.3",
