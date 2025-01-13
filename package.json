@@ -86,7 +86,7 @@
     },
     "devDependencies": {
         "assert": "2.1.0",
-        "axios-mock-adapter": "1.22.0",
+        "axios-mock-adapter": "2.1.0",
         "c8": "10.1.2",
         "chai": "5.1.0",
         "chai-files": "1.4.0",
