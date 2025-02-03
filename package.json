@@ -91,7 +91,7 @@
         "chai": "5.1.2",
         "chai-files": "1.4.0",
         "eslint": "9.19.0",
-        "eslint-config-prettier": "9.1.0",
+        "eslint-config-prettier": "10.0.1",
         "eslint-config-ssjs": "1.1.11",
         "eslint-plugin-jsdoc": "48.2.3",
         "eslint-plugin-mocha": "10.4.3",
